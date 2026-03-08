@@ -1,0 +1,14 @@
+langchain==1.2.10
+langchain-openai==1.1.9
+langchain-community==0.4.1
+langchain-classic==0.1.0
+chromadb==0.5.5
+python-dotenv==1.0.1
+ragas==0.2.8
+datasets==2.21.0
+pandas==2.2.3
+streamlit==1.39.0
+fastapi==0.115.0
+uvicorn==0.30.6
+requests==2.32.3
+structlog==24.4.0
